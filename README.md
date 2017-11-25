@@ -6,4 +6,4 @@ We developed a disriminative model for brain tumor segmentation from multimodal 
 We train HGG and LGG together using 4 scanning image: FLAIR, T1, T1c, T2 of BRATS 2013 dataset. 
 
 ### Segmentation result
-
+![segmentation](https://github.com/haile493/Brain-tumor-segmentation-ExtraTrees/blob/master/images/segmentation.png)
