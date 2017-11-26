@@ -7,3 +7,5 @@ We train HGG and LGG together using 4 scanning image: FLAIR, T1, T1c, T2 of BRAT
 
 ### Segmentation result
 ![segmentation](https://github.com/haile493/Brain-tumor-segmentation-ExtraTrees/blob/master/images/segmentation.png)
+
+#### Note: If you want to run these codes, you need to train U-Net yourself
